@@ -71,3 +71,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Languages and Tools Utilized 🛠️
+
+* **TypeScript**
+* **TypeORM**
+
+## by ✒️
+* **Rodrigo Medina**
+---
+Made with ❤️ by [Rho](https://github.com/idrodrigo) 😊
